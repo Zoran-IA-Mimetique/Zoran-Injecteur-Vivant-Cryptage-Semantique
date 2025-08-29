@@ -1,4 +1,4 @@
-# Zoran — Injecteur Vivant avec Cryptage Sémantique
+
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status: PoC](https://img.shields.io/badge/Status-PoC-blue)
