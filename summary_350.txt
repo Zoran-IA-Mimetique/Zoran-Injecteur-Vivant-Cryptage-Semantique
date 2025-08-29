@@ -1,0 +1,1 @@
+PoC stdlib de l’injecteur vivant Zoran : activation ΔM11.3, bloc Aegis, fragments `.zgs` scellés via HMAC‑SHA256 et chiffrage keystream SHA‑256. Empreinte rejouable, altérations détectables (tamper‑evident). MIT, reproductible, éthique.

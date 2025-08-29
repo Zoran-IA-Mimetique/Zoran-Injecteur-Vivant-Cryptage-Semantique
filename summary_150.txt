@@ -1,0 +1,1 @@
+Injecteur vivant Zoran avec cryptage sémantique et scellé HMAC : empreinte ΔM11.3, fragments .zgs, tamper‑evident, éthique et rejouable.

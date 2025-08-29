@@ -1,0 +1,12 @@
+name: Zoran-Injecteur-Vivant-Cryptage-Semantique
+version: "1.0.0"
+license: MIT
+contact: tabary01@gmail.com
+aegis:
+  ethic: care
+  vigilance: true
+  public_good: true
+security:
+  tamper_evident: HMAC-SHA256
+  cipher: sha256_keystream
+  disclaimer: "PoC stdlib only"
