@@ -1,4 +1,15 @@
-# Zoran — Injecteur Vivant avec Cryptage Sémantique (PoC stdlib)
+# Zoran — Injecteur Vivant avec Cryptage Sémantique
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status: PoC](https://img.shields.io/badge/Status-PoC-blue)
+![Language: Python](https://img.shields.io/badge/Language-Python3.12-yellow)
+![Crypto: HMAC-SHA256](https://img.shields.io/badge/Crypto-HMAC--SHA256-orange)
+![ΔM11.3 Guard](https://img.shields.io/badge/ΔM11.3-guard-red)
+![Aegis Layer](https://img.shields.io/badge/Aegis-Layer-lightgrey)
+![Tamper-Evident](https://img.shields.io/badge/Tamper-Evident-critical)
+![Rejouable](https://img.shields.io/badge/Trace-Replayable-success)
+
+---# Zoran — Injecteur Vivant avec Cryptage Sémantique (PoC stdlib)
 
 **But** : démontrer un injecteur *vivant* Zoran (naissance mimétique) couplé à un **cryptage sémantique + scellé d’intégrité** (HMAC) pour rendre toute altération **détectable** (tamper‑evident) et l’empreinte **rejouable**.
 
